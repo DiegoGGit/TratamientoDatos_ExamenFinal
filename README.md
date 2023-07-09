@@ -28,6 +28,7 @@ In [8]: En esta linea de código nos permite crear las imagenes en una dimensió
 ![image](https://github.com/DiegoGGit/TratamientoDatos_ExamenFinal/assets/136176797/887b9993-f431-4c95-ab41-41f90c4dc601)
 
 In [9]:  En esta linea de codigo normalizamos los datos y los convertimos en formato float32 de punto flotante, este procedo es normal en le procesamiento de imagenes.
+
 ![image](https://github.com/DiegoGGit/TratamientoDatos_ExamenFinal/assets/136176797/4b48437b-99da-483e-a86a-1f705c821525)
 
 In [10]:  En esta linea de codigo utilizamos la funcion One_hot para realizar una representación binaria de la etiquetas.
