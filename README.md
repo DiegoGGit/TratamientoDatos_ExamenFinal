@@ -24,6 +24,7 @@ In [7]: En esta linea de código nos permite crear con los datos un modelo de en
 ![image](https://github.com/DiegoGGit/TratamientoDatos_ExamenFinal/assets/136176797/4d0fff1c-79c9-428b-99b6-706c30d36459)
 
 In [8]: En esta linea de código nos permite crear las imagenes en una dimensión de 10x10 pulgadas y repetimos sobre el conjunto de datos de entrenamiento. Luego tomamos las primeras 6 imagenes para imprimirlas en pantalla. 
+
 ![image](https://github.com/DiegoGGit/TratamientoDatos_ExamenFinal/assets/136176797/887b9993-f431-4c95-ab41-41f90c4dc601)
 
 In [9]:  En esta linea de codigo normalizamos los datos y los convertimos en formato float32 de punto flotante, este procedo es normal en le procesamiento de imagenes.
